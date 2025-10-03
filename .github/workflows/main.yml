@@ -9,6 +9,9 @@ jobs:
   build:
     name: Publish site
     runs-on: ubuntu-latest
+    permissions:
+     contents: read
+     issues: write
     steps:
     - name: Checkout main
       uses: actions/checkout@v4
