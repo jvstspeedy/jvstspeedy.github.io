@@ -1,6 +1,5 @@
 +++
 title = "Links"
-description = ""
 path = "links"
 +++
 
