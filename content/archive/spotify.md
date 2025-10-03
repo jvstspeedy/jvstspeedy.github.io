@@ -14,7 +14,7 @@ Since becoming an artist, I've become much more aware of just how shit the music
 # History of Spotify
 Spotify was, and always has been, an ad serving platform first.
 
-The earliest days of Spotify didn't even have legitimate music on the platform, it was just a bunch of mp3s downloaded from piratebay, or whatever other piracy site they decided to use. Eventually they started getting more traction and got more investments so they could get real artists on the platform, but the idea from the beginning was to make money. Serving ads is their main purpose, and that's why you either pay them a fuckload of money for lower-than-intended quality music (more on that later) or you aren't allowed to skip more than 6 times and you have to be subjected to ads every 30 minutes.
+The earliest days of Spotify didn't even have legitimate music on the platform, it was just a bunch of mp3s downloaded from piratebay, or whatever other piracy site they decided to use. Eventually they started getting more traction and got more investments so they could get real artists on the platform, but the idea from the beginning was to make money. Serving ads is their main purpose, and that's why you either pay them a fuckload of money for lower-than-intended quality music or you aren't allowed to skip more than 6 times and you have to be subjected to ads every 30 minutes.
 
 It's ***awful.***
 
