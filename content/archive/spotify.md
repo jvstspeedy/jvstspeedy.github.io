@@ -1,10 +1,13 @@
 +++
 title = "Why I Quit Spotify"
+description = "tl;dr: Spotify sucks dick."
 date = 2025-10-03
 updated = 2025-10-03
 +++
 
-tl;dr: Spotify sucks dick. <!-- more -->
+{% admonition(type="info", title="tl;dr") %}
+Spotify sucks dick.
+{% end %}
 
 Since becoming an artist, I've become much more aware of just how shit the music industry is for indie artists, and it's put me in a position where the more I learn about the companies I submit my music to, the more I absolutely fucking hate them. Spotify is, at least as far as I know, the worst offender.
 
