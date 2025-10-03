@@ -1,0 +1,80 @@
+# The URL the site will be built for
+base_url = "https://jvstspeedy.github.io"
+theme = "linkita"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Title separator.
+title_separator = " | "
+
+# The top menu.
+# See "extra.menus".
+header_menu_name = "menu_name"
+
+# See "extra.menus".
+menu_i18n = false
+
+# If you disable default favicons, you can use
+# the inject support to set your own favicons.
+# Default value: false
+disable_default_favicon = true
+
+# If you want to implement the JS code
+# yourself, set to true and use the inject support.
+# Default value: false
+disable_javascript = false
+
+# Default value: false
+use_cdn = false
+
+# Use relative urls.
+# It doesn't apply for content yet.
+# Default value: false
+relative_urls = false
+
+# If you want to view the site without a webserver
+# set this and "relative_urls" to true.
+# Default value: false
+urls_to_index_html = false
+
+# Prioritize summary over description.
+# Default value: false
+page_summary_on_paginator = false
+
+# Reverse the order of prev and next post links.
+# Default value: false
+invert_page_navigation = false
+
+# You can reorder the strings, remove them, replace them.
+# For example, you can replace "site_title" with "home_button".
+# Default value: ["site_title", "theme_button", "search_button", "translations_button"]
+header_buttons = ["home_button"]
+
+# Valid "when" values:
+#  "date", "date_updated", "reading_time", "word_count", "authors", "tags", "".
+# The "prepend" and "append" are used when the value of "when" is defined for the page.
+# e.g. [{when="", prepend="Page Info: "},{when="date",prepend="Published on "},{when="authors",prepend="By "}]
+page_info = [{ when="date" }, { when="date_updated", prepend="(", append=")" }, { when="reading_time" }]
+# page_info_on_paginator = [{ when="date" }, { when="reading_time" }]
+
+# Enable table of contents on all pages.
+# If not set, toc is enabled only on posts.
+# If set to false, toc is disabled on all pages.
+# Type: boolean or object
+# toc = true
+
+[extra.menus]
+menu_name = [
+  { url = "$BASE_URL/archive/", name = "The Archive" },
+  { url = "$BASE_URL/links/", name = "Links" },
+]

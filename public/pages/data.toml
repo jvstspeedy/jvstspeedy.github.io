@@ -1,0 +1,6 @@
+[[project]]
+name = "Why I quit Spotify"
+desc = ""
+links = [
+    { name = "Read here!", url = "http://127.0.0.1:1111/archive/history/" },
+]
