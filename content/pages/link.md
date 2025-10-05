@@ -5,9 +5,9 @@ path = "links"
 
 > A (🌟) next to a link means it's one of the best ways to keep up with or support me!
 
-## Check out my Bandcamp! (🌟)
+## Follow me on Bandcamp! (🌟)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2231132689/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jvstspeedy.bandcamp.com/album/at-my-wits-end">AT MY WITS&#39; END by SPΣΣDY</a></iframe>
+<iframe scrolling="no" style="border: 0;width: 100%;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/2272253309"></iframe>
 
 ## Check out my socials!
 - (🌟) [Instagram](https://instagram.com/jvst_speedy)
