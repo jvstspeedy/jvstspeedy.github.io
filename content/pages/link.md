@@ -7,7 +7,7 @@ path = "links"
 
 ## Follow me on Bandcamp! (🌟)
 
-<iframe scrolling="no" style="border: 0;width: 100%;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/2272253309"></iframe>
+<iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/2272253309"></iframe>
 
 ## Check out my socials!
 - (🌟) [Instagram](https://instagram.com/jvst_speedy)
